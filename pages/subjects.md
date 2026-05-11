@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Subjects
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+A visual tapestry of themes and concepts. 
+The scale of each word reflects its prominence within the collection, offering an organic gateway to explore the recurring threads of our history.
