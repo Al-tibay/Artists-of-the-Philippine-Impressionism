@@ -8,6 +8,5 @@ permalink: /data.html
 
 ## Collection Metadata
 
-The table below provides sorting and basic search of the collection contents. 
-Use the "CSV" or "Excel" button below to download the filtered metadata you see on the page in your preferred format. 
-Alternatively, click the "Download" button at the top right to view the full collection metadata in various export formats. 
+A comprehensive registry of the collection. 
+This index compiles the precise records and descriptive metadata of each work, providing a detailed map for scholars, archivists, and the curious traveler.
