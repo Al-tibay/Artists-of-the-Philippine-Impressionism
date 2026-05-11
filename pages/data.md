@@ -9,4 +9,4 @@ permalink: /data.html
 ## Collection Metadata
 
 A comprehensive registry of the collection. 
-This index compiles the precise records and descriptive metadata of each work, providing a detailed map for scholars, archivists, and the curious traveler.
+This index compiles the precise records and descriptive metadata of each artwork, providing a detailed map for scholars, archivists, and the curious traveler.
