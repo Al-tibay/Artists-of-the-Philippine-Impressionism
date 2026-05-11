@@ -10,7 +10,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="luna_001" %}
+{% include feature/jumbotron.html objectid="https://en.wikipedia.org/wiki/Spoliarium#/media/File:Spoliarium.jpg" %}
 
 {% include feature/nav-menu.html sections="The Canvas of Filipino History;The Filipino Impressionism Artists" %}
 
