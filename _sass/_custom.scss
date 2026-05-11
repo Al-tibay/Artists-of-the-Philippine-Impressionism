@@ -2,3 +2,28 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+/* --- UNIFORM CAROUSEL THUMBNAILS --- */
+
+/* 1. Target the images inside your carousel */
+.carousel-item img, 
+.carousel-inner img {
+    width: 100% !important;
+    
+    /* Set your desired uniform height */
+    height: 400px !important; /* Adjust this number to make the carousel taller or shorter */
+    
+    /* THE MAGIC: This crops the painting to fit the box perfectly without stretching or squishing it */
+    object-fit: cover !important; 
+    
+    /* Focus the crop on the center of the artwork */
+    object-position: center !important; 
+}
+
+/* 2. Optional: Add a subtle museum-style framing to the carousel wrapper */
+.carousel {
+    border: 1px solid rgba(46, 31, 25, 0.15); /* Light border using your dark brown color */
+    border-radius: 4px;
+    overflow: hidden;
+    background-color: #2E1F19; /* Dark brown background so dark/cropped areas blend beautifully */
+}
