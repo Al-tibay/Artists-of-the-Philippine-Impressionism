@@ -43,3 +43,42 @@ body {
     background-color: #E2D7BE !important; /* A slightly lighter sand shade to make cards stand out beautifully */
     border: none !important;
 }
+
+
+/* --- CUSTOM NAVBAR OVERRIDE --- */
+
+/* 1. Force the navbar background to your custom dark brown */
+.navbar {
+    background-color: #2E1F19 !important;
+    border-bottom: 1px solid #1f1510 !important; /* Subtle darker brown divider line */
+}
+
+/* 2. Force the navbar title/brand text to your warm sand color */
+.navbar-brand {
+    color: #D4C6A7 !important;
+}
+
+/* 3. Force all navigation links to your warm sand color */
+.navbar .nav-link {
+    color: #D4C6A7 !important;
+}
+
+/* 4. Make the links glow slightly brighter sand/white when you hover over them */
+.navbar .nav-link:hover, .navbar .nav-link:focus {
+    color: #ffffff !important;
+    opacity: 0.9;
+}
+
+/* 5. If you have a dropdown menu in your navbar, style it to match */
+.dropdown-menu {
+    background-color: #2E1F19 !important;
+    border: 1px solid #1f1510 !important;
+}
+.dropdown-item {
+    color: #D4C6A7 !important;
+}
+.dropdown-item:hover {
+    background-color: #1f1510 !important;
+    color: #ffffff !important;
+}
+
