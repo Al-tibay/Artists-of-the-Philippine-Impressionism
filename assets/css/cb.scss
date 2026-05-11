@@ -31,3 +31,15 @@ $theme-colors: map-merge(
 {% endif %}
 
 @import "base", "pages", "custom";
+
+/* Clean warm sand page background */
+body {
+    background-color: #D4C6A7 !important; /* Forces your beautiful sand color across the whole site */
+    color: #191919 !important; /* Keeps your text highly readable */
+}
+
+/* Make sure inner cards and content boxes look cohesive */
+.card, .jumbotron, .bg-light {
+    background-color: #E2D7BE !important; /* A slightly lighter sand shade to make cards stand out beautifully */
+    border: none !important;
+}
