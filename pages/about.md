@@ -1,4 +1,4 @@
-<img width="445" height="590" alt="image" src="https://github.com/user-attachments/assets/7dd1a4a8-371a-4bba-9903-55f73ba21d3d" />---
+---
 title: About
 layout: about
 permalink: /about.html
@@ -51,6 +51,7 @@ Our collection proudly features three foundational pillars of Philippine visual 
 </p>
 
 <p style="text-align: center;">
+<img width="445" height="590" alt="image" src="https://github.com/user-attachments/assets/7dd1a4a8-371a-4bba-9903-55f73ba21d3d" />
 (/image/https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/493694108_1230588285733629_1899046151203275218_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_eui2=AeHo8DOyeR1jRBfF6e1zqpYFUv9ViB7k9G9S_1WIHuT0b_lSrjbhYoL09msgYScEBGoELaD6nwDDMj8JotWfjbq2&_nc_ohc=cu05uq0qiTkQ7kNvwH9Y2LL&_nc_oc=AdpSbYU2CawtDtQncDuC_6vBatB8K3Hiz1DOzhO-GlxdHJVoDhPYkc3bx0MAxTUE0rQ&_nc_zt=23&_nc_ht=scontent.fmnl13-1.fna&_nc_gid=V7wvcRjBQqI8LxLmrTV3zA&_nc_ss=7b2a8&oh=00_Af6_lpTcJ4pP2AWrSjTQgFwGoLgT-cApgV2jNLClaR1ZwA&oe=6A085A91)
 </p>
 
