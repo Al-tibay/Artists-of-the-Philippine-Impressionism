@@ -115,6 +115,24 @@ Recognized by his <strong>masterful technique, emotional depth, and blending of 
 <strong>Painter of Melancholy and Mist</strong>
 </h4>
 
+<p style="text-align: center;">
+<img width="445" height="590" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Self_portrait_of_F%C3%A9lix_Resurrecci%C3%B3n_Hidalgo.jpg" />
+</p>
+
+<strong>Full Name:</strong> Félix Resurrección Hidalgo y Padilla      
+    
+<strong>Time Period:</strong> 1855-1913 (58 years)          
+
+<strong>Occupation:</strong> Painter and visual artist  
+
+<strong>Known as:</strong> One of the greatest Filipino painters of the late 19th century
+
+Recognized for his <strong>refined, lyrical Impressionism, often termed "soft" or "melancholy." He is known for using delicate, luminous brushwork, subtle light and shadow (chiaroscuro), and emotional restraint to create dreamy, atmospheric scenes, portraits, and intense seascapes.</strong>
+
+<strong>Awards/Achievements:</strong>
+<ul style="text-align: justify;">
+  <li><strong>1884</strong> – Silver Medal (2nd Class): <em>Las Virgenes Cristianas Expuestas al Populacho</em> in Madrid Exposición Nacional de Bellas Artes).</li>
+
 <hr>
 
 <p style="text-align: justify;">
