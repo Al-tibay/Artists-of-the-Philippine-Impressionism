@@ -134,6 +134,8 @@ Recognized for his <strong>refined, lyrical Impressionism, often termed "soft" o
   <li><strong>1884</strong> – Silver Medal (2nd Class): <em>Las Virgenes Cristianas Expuestas al Populacho</em> in Madrid Exposición Nacional de Bellas Artes).</li>
 
 <hr>
+<hr>
+<hr>
 
 <p style="text-align: justify;">
 This database was created by <strong>Allyson Tibay, Dane Izz Reyes, Lhaiza Salvatierra, Mennasiah Isorena, and Princess Aviella De Vera</strong> in partial fulfillment of the requirements for <strong>ART003: Arts Appreciation</strong> (2nd Semester, AY 2025–2026) under the guidance of <strong>Prof. Adrian Mendizabal.</strong>
