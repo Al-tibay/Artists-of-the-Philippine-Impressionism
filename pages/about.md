@@ -87,6 +87,27 @@ Recognized by his <strong>pioneering use of impressionistic techniques and his s
 <strong>Painter of Dramatic Realism</strong>
 </h4>
 
+<p style="text-align: center;">
+<img width="445" height="590" alt="image" src="(https://i.imgur.com/zSUJAmn.jpeg)" />
+</p>
+
+<strong>Full Name:</strong> Juan Luna de San Pedro y Novicio Ancheta      
+    
+<strong>Time Period:</strong> 1857–1899 (42 years)          
+
+<strong>Occupation:</strong> Painter, sculpture, political activist  
+
+<strong>Known for:</strong> his painting "Spoliarium"
+
+Recognized by his <strong>masterful technique, emotional depth, and blending of Western and Filipino influences. He was an artist and political activist during the Philippine Revolution, representing the Ilustrado class, and his success bolstered the Filipino Propaganda Movement.</strong>
+
+<strong>Awards/Achievements:</strong>
+<ul style="text-align: justify;">
+  <li><strong>1881</strong> – Silver Medal (2nd Class): <em>La Muerte de Cleopatra</em> in Madrid Exposición Nacional de Bellas Artes.</li>
+  <li><strong>1884</strong> – Gold Medal (1st Class): <em>Spoliarium</em> in Madrid Exposición Nacional de Bellas Artes).</li>
+  <li><strong>1904</strong> – Posthumous Silver Medal: <em>People and the Kings</em> in St. Louis Exposition</li>
+</ul>
+
 <hr> 
 
 <h4 style="text-align: center;">
