@@ -48,8 +48,10 @@ Our collection proudly features three foundational pillars of Philippine visual 
 
 <h4 style="text-align: center;">
 1. Fernando Amorsolo (1892–1972)
-<strong>Painter of Philippine Sunlight</strong>
 </h4>
+<h6 style="text-align: center;">
+<strong>Painter of Philippine Sunlight</strong>
+</h6>
 
 <p style="text-align: center;">
 <img width="445" height="590" alt="image" src="https://github.com/user-attachments/assets/7dd1a4a8-371a-4bba-9903-55f73ba21d3d" />
@@ -84,8 +86,10 @@ Recognized by his <strong>pioneering use of impressionistic techniques and his s
 
 <h4 style="text-align: center;">
 2. Juan Luna (1857–1899)
-<strong>Painter of Dramatic Realism</strong>
 </h4>
+<h6 style="text-align: center;">
+<strong>Painter of Dramatic Realism</strong>
+</h6>
 
 <p style="text-align: center;">
 <img width="445" height="590" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtbtA0LuwtrkZ7IEL3p8I8vK_lyJNEBLOyYA&s" />
@@ -112,8 +116,10 @@ Recognized by his <strong>masterful technique, emotional depth, and blending of 
 
 <h4 style="text-align: center;">
 3. Félix Resurrección Hidalgo (1855–1913)
-<strong>Painter of Melancholy and Mist</strong>
 </h4>
+<h6 style="text-align: center;">
+<strong>Painter of Melancholy and Mist</strong>
+</h6>
 
 <p style="text-align: center;">
 <img width="445" height="590" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Self_portrait_of_F%C3%A9lix_Resurrecci%C3%B3n_Hidalgo.jpg" />
