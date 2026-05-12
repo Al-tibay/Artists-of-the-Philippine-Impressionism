@@ -51,7 +51,7 @@ Our collection proudly features three foundational pillars of Philippine visual 
 </p>
 
 <p style="text-align: center;">
-(objects/amorsolo_portrait.jpg)
+(/image/objects/amorsolo_portrait.jpg)
 </p>
 
 >Full Name: Fernando Amorsolo y Cueto      
