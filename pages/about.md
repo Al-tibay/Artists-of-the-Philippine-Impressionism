@@ -33,17 +33,15 @@ Our collection proudly features three foundational pillars of Philippine visual 
 #### 1. Fernando Amorsolo (1892–1972)
 ***Painter of Philippine Sunlight***
 
->Full Name: 
->>Fernando Amorsolo y Cueto      
+(objects/amorsolo_portrait.jpg)
+
+>Full Name: Fernando Amorsolo y Cueto      
     
->Time Period:
->>1892 - 1972 (79 years)          
+>Time Period: 1892 - 1972 (79 years)          
 
->Occupation:
->>Painter, Portraitist, Draftsman  
+>Occupation: Painter, Portraitist, Draftsman  
 
->Known as: 
->>Grand Old Man of Philippine Art    
+>Known as: Grand Old Man of Philippine Art    
 
 >Recognized by his pioneering use of impressionistic techniques and his skill in lighting and backlighting in his paintings.  
 
