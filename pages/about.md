@@ -88,7 +88,7 @@ Recognized by his <strong>pioneering use of impressionistic techniques and his s
 </h4>
 
 <p style="text-align: center;">
-<img width="445" height="590" alt="image" src="(https://i.imgur.com/zSUJAmn.jpeg)" />
+<img width="445" height="590" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtbtA0LuwtrkZ7IEL3p8I8vK_lyJNEBLOyYA&s" />
 </p>
 
 <strong>Full Name:</strong> Juan Luna de San Pedro y Novicio Ancheta      
