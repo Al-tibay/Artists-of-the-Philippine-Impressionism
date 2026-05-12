@@ -138,6 +138,7 @@ Recognized for his <strong>refined, lyrical Impressionism, often termed "soft" o
 <strong>Awards/Achievements:</strong>
 <ul style="text-align: justify;">
   <li><strong>1884</strong> – Silver Medal (2nd Class): <em>Las Virgenes Cristianas Expuestas al Populacho</em> in Madrid Exposición Nacional de Bellas Artes).</li>
+</ul>
 
 <hr>
 <hr>
