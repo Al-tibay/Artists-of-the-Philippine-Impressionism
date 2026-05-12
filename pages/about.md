@@ -55,15 +55,30 @@ Our collection proudly features three foundational pillars of Philippine visual 
 <img width="445" height="590" alt="image" src="https://github.com/user-attachments/assets/7dd1a4a8-371a-4bba-9903-55f73ba21d3d" />
 </p>
 
->Full Name: Fernando Amorsolo y Cueto      
+<strong>Full Name:</strong> Fernando Amorsolo y Cueto      
     
->Time Period: 1892 - 1972 (79 years)          
+<strong>Time Period:</strong> 1892 - 1972 (79 years)          
 
->Occupation: Painter, Portraitist, Draftsman  
+<strong>Occupation:</strong> Painter, Portraitist, Draftsman  
 
->Known as: Grand Old Man of Philippine Art    
+<strong>Known as:</strong> Grand Old Man of Philippine Art    
 
->Recognized by his pioneering use of impressionistic techniques and his skill in lighting and backlighting in his paintings.  
+Recognized by his <strong>pioneering use of impressionistic techniques and his skill in lighting and backlighting in his paintings.</strong>
+
+<strong>Awards/Achievements:</strong>
+<ul style="text-align: justify;">
+  <li><strong>1908</strong> – 2nd Prize, Bazar Escolta (Asocacion Internacional de Artistas), for <em>Levendo Periodico</em></li>
+  <li><strong>1922</strong> – 1st Prize, Commercial and Industrial Fair in the Manila Carnival</li>
+  <li><strong>1929</strong> – 1st Prize, New York’s World Fair, for <em>Afternoon Meal of Rice Workers</em> (also known as Noonday Meal of the Rice Workers)</li>
+  <li><strong>1940</strong> – Outstanding University of the Philippines Alumnus Award</li>
+  <li><strong>1959</strong> – Gold Medal, UNESCO National Commission</li>
+  <li><strong>1961</strong> – Rizal Pro Patria Award</li>
+  <li><strong>1961</strong> – Honorary Doctorate in the Humanities, from the Far Eastern University</li>
+  <li><strong>1963</strong> – Diploma of Merit from the University of the Philippines</li>
+  <li><strong>1963</strong> – Patnubay ng Sining at Kalinangan Award, from the City of Manila</li>
+  <li><strong>1963</strong> – Republic Cultural Heritage Award</li>
+  <li><strong>1972</strong> – Gawad CCP para sa Sining, from the Cultural Center of the Philippines</li>
+</ul>
 
 <hr> 
 
