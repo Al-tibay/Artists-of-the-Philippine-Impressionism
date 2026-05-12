@@ -79,13 +79,13 @@ body {
 
 /* 1. The default state of the links (choose your color) */
 a {
-    color: #313238 !important; /* Right now, this is set to your gorgeous dark brown */
+    color: #505D78 !important; /* Right now, this is set to your gorgeous dark brown */
     text-decoration: underline; /* Keeps them looking like clickable links */
     transition: color 0.2s ease-in-out; /* Makes the hover transition smooth */
 }
 
 /* 2. What happens when a user hovers over a link */
 a:hover, a:focus {
-    color: #404E6B !important; /* Changes to a slightly lighter brown/charcoal on hover */
+    color: #667B91 !important; /* Changes to a slightly lighter brown/charcoal on hover */
     text-decoration: none; /* Optional: removes the underline on hover for a clean look */
 }
