@@ -48,8 +48,8 @@ Our collection proudly features three foundational pillars of Philippine visual 
 
 <h4 style="text-align: center;">
 1. Fernando Amorsolo (1892–1972)
-</h4>
 <strong>Painter of Philippine Sunlight</strong>
+</h4>
 
 <p style="text-align: center;">
 <img width="445" height="590" alt="image" src="https://github.com/user-attachments/assets/7dd1a4a8-371a-4bba-9903-55f73ba21d3d" />
@@ -69,15 +69,15 @@ Our collection proudly features three foundational pillars of Philippine visual 
 
 <h4 style="text-align: center;">
 2. Juan Luna (1857–1899)
-</h4>
 <strong>Painter of Dramatic Realism</strong>
+</h4>
 
 <hr> 
 
 <h4 style="text-align: center;">
 3. Félix Resurrección Hidalgo (1855–1913)
-</h4>
 <strong>Painter of Melancholy and Mist</strong>
+</h4>
 
 <hr>
 
