@@ -1,5 +1,3 @@
-
-
 ---
 title: About
 layout: about
@@ -10,46 +8,72 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://en.wikipedia.org/wiki/Spoliarium#/media/File:Spoliarium.jpg" %}
+# Markdown syntax guide
 
-{% include feature/nav-menu.html sections="The Canvas of Filipino History;The Filipino Impressionism Artists" %}
+## Headers
 
-## Learn more about the Filipino Impressionism Artists!
-<hr> 
+# This is a Heading h1
+## This is a Heading h2
+###### This is a Heading h6
 
-### The Canvas of Filipino History 
+## Emphasis
 
-> **“The truest, richest records of human experiences lies within their art.”**
+*This text will be italic*  
+_This will also be italic_
 
-Filipino history is more than just chronicles of dates, battles, or treaties. It can also be expressed through **vibrant brushstrokes filled with emotion, dedication, and passion.** Impressionism is an artistic style that captures fleeting moments of lived human experiences—may that be the artist’s expression of self, feeling, idea, or perception. In its own way, it conveys what it was like to live in that era.
+**This text will be bold**  
+__This will also be bold__
 
-In the Philippines, there were three impressionist artists who were able to paint their life’s work, capturing themes such as **social realism, commentary, daily life, and the cultural aesthetic of Filipino identity.** This database was created for a valuable purpose: to preserve and celebrate the visual world of Philippine identity.
+_You **can** combine them_
 
-<hr> 
+## Lists
 
-### The Filipino Impressionism Artists
+### Unordered
 
-Our collection proudly features three foundational titans of Philippine art, each of whom captured a different facet of the Filipino spirit:
+* Item 1
+* Item 2
+* Item 2a
+* Item 2b
+    * Item 3a
+    * Item 3b
 
-<hr> 
+### Ordered
 
-#### 1. Fernando Amorsolo (1892–1972)
-***Painter of Philippine Sunlight***
+1. Item 1
+2. Item 2
+3. Item 3
+    1. Item 3a
+    2. Item 3b
 
-<hr> 
+## Images
 
-#### 2. Juan Luna (1857–1899)
-***Painter of Dramatic Realism***
+![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
 
-<hr> 
+## Links
 
-#### 3. Félix Resurrección Hidalgo (1855–1913)
-***Painter of Melancholy and Mist***
+You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
-<hr>
+## Blockquotes
 
-This database was created by **Allyson Tibay, Dane Izz Reyes, Lhaiza Salvatierra, Mennasiah Isorena, and Princess Aviella De Vera** in partial fulfillment of the requirements for **ART003: Arts Appreciation** (2nd Semester, AY 2025–2026) under the guidance of **Prof. Adrian Mendizabal.**
+> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+>
+>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-***
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/)
+## Tables
 
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
+
+## Blocks of code
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
+## Inline code
+
+This web site is using `markedjs/marked`.
